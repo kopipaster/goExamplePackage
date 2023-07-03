@@ -1,0 +1,2 @@
+# goExamplePackage
+example package GO
